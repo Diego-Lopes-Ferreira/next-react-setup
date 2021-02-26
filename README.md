@@ -1,18 +1,37 @@
+# reactsetup
+
+>
+
+## :heavy_check_mark: Features:
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## :computer: Development setup
+
+### Getting Started
 
 First, run the development server:
 
 ```bash
-npm run dev
-# or
 yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## :rocket: Release History
+
+- 1.0.0
+  - ReactJS + Next.js + Styled Components + image optimization
+
+## About Me
+
+Diego Lopes Ferreira –
+[@Twitter](https://twitter.com/Diego_simSouEu) –
+[@Instagram](https://www.instagram.com/diego.lopes.f/) -
+[LinkedIn](https://www.linkedin.com/in/diego-lopes-ferreira-a23a8919b/) -
+[Coders Rank](https://profile.codersrank.io/user/diego-lopes-ferreira)
+
+Distributed under the MIT license. See [license](LICENSE) for more information.
 
 [API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
